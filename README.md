@@ -6,4 +6,4 @@
 - keras-rl2               1.0.5
 - tensorflow              2.6.2
 
-![abstract]("dqn.png")
+![abstract](img/dqn.png)
