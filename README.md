@@ -7,3 +7,6 @@
 - tensorflow              2.6.2
 
 ![abstract](img/dqn.png)
+
+### result example
+![result](img/g3.gif)
